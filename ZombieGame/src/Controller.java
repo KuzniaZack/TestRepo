@@ -124,11 +124,7 @@ class Controller implements MouseListener, ActionListener {
 		
 	}
 
-	@Override
-	public void mouseReleased(MouseEvent e) {
-		// TODO Auto-generated method stub
-		
-	}
+	
 
 } 
 
